@@ -1,0 +1,7 @@
+recursive-include admin *
+recursive-include docs *
+recursive-include examples *
+recursive-include rtfng *
+recursive-include test *
+include *
+global-exclude *.pyc
